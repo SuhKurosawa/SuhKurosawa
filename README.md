@@ -7,5 +7,10 @@ I'm a quiet person who likes to interact with other people, I usually spend my f
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img align="right" alt="Suh-pic" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1006007865577848956/1009199477636206713/723262.gif">
 </div>
-<br/>
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<div> 
+  <a></a> 
+ 
+  ![Snake animation](https://github.com/SuhKurosawa/SuhKurosawa/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
